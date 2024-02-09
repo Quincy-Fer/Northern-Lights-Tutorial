@@ -1,0 +1,8 @@
+1: Setup installation
+2: Create responsive navbar
+3: Create carousel slider
+4: Create modal with form inside
+5: Create Overview section
+6: Create Packages section
+7: Create FAQ
+8: Create Footer
